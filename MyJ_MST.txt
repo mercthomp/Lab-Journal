@@ -1,0 +1,49 @@
+4/1/19 - Day one
+
+ARCSTAT (optical, .5m, apache point) 
+
+June 7  - final project
+Proposal due in 3 weeks
+
+rc or bash_profile file modify the path your computer is using (e.g. set up shortcuts, add in scripting, set defaults, and create commands) - these are configuration files. 
+- watch out for conflicting commands
+
+Keep a list of command shortcuts
+
+run: jupyter notebook &
+- This will run the command in the background (e.g. get your command line back)
+
+view fits files:
+- DS9
+- QView
+
+Vignette- design of an instrument such that the light path at the edges is being cut off. This cuts the area of view and makes the image bright in the center and dim in the center. 
+
+Day two - 4/3/19
+
+How does SSH effect my access with others?
+
+Day three - 4/5/19 
+
+The SSH shouldn’t effect the access
+
+Historically the motors on our telescopes haven’t been good enough to look directly at an obj -> we needed finding charts 
+- Jskycalc: Tracks motion of the sky, is a GUI from 1994…
+- astroplan - astrapy powered, has much of Jskycalc but accessed from python
+
+NED - extragalactic DB/catalogues 
+Simbad - stellar version
+- Great place to find other catalogues
+- & you know, objects too.
+
+When planning
+- air was: Sp way of saying “how much atmosphere is between me and my object”  — want to target airmass is ~.5 — least directly above & most 
+- The Moon: What the moon phase is? When does it rise and set? Moon is a reflected stellar spectrum and it impedes observation. You may need to make your observation earlier and later.
+- Never have night - Sun never falls 18 deg lat 
+- When is it dark? How long is night where you’re observing?
+- Nautical twilight used to calibrate CCD and observe the characteristics of the CCD 
+
+* wiki ain’t good place to get RA and DEC
+
+Links:
+https://www.dartmouth.edu/~physics/labs/skycalc/flyer.html
