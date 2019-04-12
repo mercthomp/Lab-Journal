@@ -47,3 +47,38 @@ When planning
 
 Links:
 https://www.dartmouth.edu/~physics/labs/skycalc/flyer.html
+
+Day four - 4/8/19
+
+Find more DB’s on:
+Nasa Heasarc:
+https://heasarc.gsfc.nasa.gov/docs/archive.html
+
+Cocalc sucks, so do the astroconda people. Meredith is a coding badass and we modified my conda config file! Which was extremely awesome to watch Meredith do.
+
+Begin navigating the sky. Already got the DB. Feels good!
+
+Day five - 4/10/19
+
+Don’t use for loops use masks. Be a good python. But still use them cause stuff can suck. 
+
+On this day we have imaged a black hole. It looks like a donut. I hope there’s a big cup of jet black coffee at its center (which its spewing out of its jets!). It has also put, what I imagine to be, some population of theoretical physicists out of work as gravity is just gravity (as we’ve described it).  
+
+Navigating the sky is looking to be more of a pain than I thought.
+
+Day six - 4/12/19 
+
+Everything is broken. I should drop out. Navigating the sky sucks. Pandas sucks. Astropy sucks. (But really its super great just frustrating….)
+
+Meredith gave us these tasty snippets:
+
+replace the spaces in the RA and DEC with a colon 
+- coords_str = quasars['ra'].str.strip().str.replace(' ',':')+' '+quasars['dec'].str.strip().str.replace(' ',':')
+ 
+
+If pandas just keeps a bunch of spaces in the column names:
+- quasars.columns = [c.strip() for c in quasars.columns]
+
+A for loop says: for x, y, x in whatever do everything that comes before the ‘for’
+
+Thanks Meredith!!!!
