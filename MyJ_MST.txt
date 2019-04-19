@@ -82,3 +82,54 @@ If pandas just keeps a bunch of spaces in the column names:
 A for loop says: for x, y, x in whatever do everything that comes before the ‘for’
 
 Thanks Meredith!!!!
+
+Day seven - 4/15/19
+
+Arcstat dates: april 29-may 6 & may 8-11
+https://www.apo.nmsu.edu/Telescopes/ARCSAT/index.html
+
+The proposal:
+* How many days, how long? You gotta be there — it is possible to set up remote
+
+Reading science:
+* abstract and conclusion first
+* read multiple times
+* Summarize the paper when done
+
+Poke your topic around on:
+ARAA - https://www.annualreviews.org/journal/astro
+
+Make multiple arrays into a data frame:
+
+My Project?:
+* Optical survey of Local Group to identify HII star forming regions
+https://www.google.com/search?q=optical+survey+of+local+group&rlz=1C5CHFA_enUS818US819&oq=optical+survey+of+local+group&aqs=chrome..69i57.653j0j7&sourceid=chrome&ie=UTF-8
+
+Day eight - 4/17/20
+
+This first bib entry:
+https://iopscience.iop.org/article/10.3847/1538-3881/aab6b2/pdf
+NGC database:
+https://skyserver.sdss.org/dr13/en/tools/places/ngc.aspx
+
+My NGC reference:
+https://ned.ipac.caltech.edu/byname?objname=NGC%201232&hconst=67.8&omegam=0.308&omegav=0.692&wmap=4&corr_z=1  
+
+Day nine - 4/19/20
+
+What do you observe:
+- accretion disks
+- Galaxies and their properties/dynamics
+- Exoplanet transit
+- Planetary nebula: Tells a lot about the original star —> multiple star systems and how they interfere with our thought of the single star evolution we think of with the HR Diagram
+- HR diagrams: Look at the population (composed of 3 broadband colors) if stars are not at the same color point they are probably at different points in their lives/ different properties
+
+CCD - turns photon in to 1’s and 0’s  when  a photon creates an electron registering as a 1
+
+R= lambda/ D
+This tells you about the use of the bandpasses as wavelength increases the precision is either optimal or suffers in different bandpasses. 
+
+- Look at ARCSTAT filters 
+- What is your object emitting?
+
+Differential Photometry: Comparison to a star of *unknown* star e.g. not listed info for it.
