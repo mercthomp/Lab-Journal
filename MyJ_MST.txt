@@ -133,3 +133,57 @@ This tells you about the use of the bandpasses as wavelength increases the preci
 - What is your object emitting?
 
 Differential Photometry: Comparison to a star of *unknown* star e.g. not listed info for it.
+
+Day ten - 4/22/20
+
+CCDs etc..
+Bias/Overscan - gives you information about the instrument
+
+Fits and such
+* log or z scale
+* Histograms - different regions of the image are governed by different statistics
+  - Poisson = How many —> to Gaussian if sample is large enough.
+  - Gaussian = deviation from norms
+  - Can calc noise and gain from the histogram
+* Photons are dictated by poisson but the overall flat is Gaussian
+
+CCDs
+* Bucket brigade = Charge transfer
+* Care about: 
+    * Quantum effeciency
+    * Gain
+    * Dark current=thermal noise
+    * orientation of CCD
+* Things to know:
+    * Track linearly
+    * pixels can saturate pixels
+    * gain is intrinsic
+    * Responsive in the optical (some ability to extend) —> material issue
+Microchannel plate - know when, up to a few ms a photon, arrived 
+
+Noise — How do we get rid of all of this? That’s the dream.
+* Shot Noise - Underlying photon noise. Photons b/c governed by poisson in repeated intervals will not give you the same count
+* Dark Current - as heated the thermal excitation will add untrue electrons to your count (as a function of time more electrons added)
+    * Dark should be the same duration as our observation
+* Read Noise - variations in the CCD readout/electronics will raise a normal distribution around the bias level. Not such 
+
+element lines: http://www.umop.net/spctelem.htm
+https://www.nist.gov/
+
+Day eleven - 4/24/20
+
+I love spectroscopy. I remember doing a lab very close to this in my first chemistry lab and feeling like this could be my thing! That’s why I almost went into geochemistry then I found out about radiation theory and quantum mechanics and how you can determine the composition of things in the deep reaches of space using spectroscopy and I changed my major! Very happy to revisit this lab and this path! 
+
+Also this is the periodic table of spectra I have hanging above my desk now :D
+https://images.app.goo.gl/choEdWRh9Lh9RvCr5
+
+
+Day twelve - 4/26/20
+
+VizieR —> Find more catalogues
+* multiple submits indicate appended data
+
+http://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=J/A%2bA/471/127&-out.max=50&-out.form=HTML%20Table&-out.add=_r&-out.add=_RAJ,_DEJ&-sort=_r&-oc.form=sexa
+
+FITS:
+HDU where the header and such is stored 
