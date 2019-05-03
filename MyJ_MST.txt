@@ -187,3 +187,38 @@ http://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=J/A%2bA/471/127&-out.max=50&
 
 FITS:
 HDU where the header and such is stored 
+
+Day thirteen- 4/29/19
+
+1st Draft due on May 20th - Basic plan, basic argument 
+
+5-10 NGC catalogue biggest and brightest. if bright enough can do V_R and Halpha.   ~10-15h, dec 0-60, apparent mag (low), and ~10 arc min gals 
+
+Catalogue:
+https://heasarc.gsfc.nasa.gov/db-perl/W3Browse/w3query.pl
+
+Today we gathered data  this is my haiku about it:
+
+Together we try
+Tape, pencils, and boxes, oh my! 
+Its data, I guess.  
+
+Day fourteen- 5/01/19
+
+Work day!
+
+I got my objects together for viewing then I got very, very intimidated by the instructions and rescheduled my viewing. 
+
+Meredith imparted more code to me and I love them for it:
+for t in targets:
+    print(t.name)
+
+observable_targets = [t for t in targets if t.name in observable['target name']]
+observable_targets
+
+We also learned about the great travesty that is standardization of material taught across different quarters is. Emphasizing that the astronomy department is SO much better than the physics department. As well as how the graduate school is paid and a sham. 
+
+Day fifteen- 5/03/19
+
+I JUST NOTICED TODAY THAT ALL MY JOURNALS HAVE BEEN DATED FOR 2020…. I have transcended time and space. 
+
