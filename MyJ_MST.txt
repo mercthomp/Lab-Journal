@@ -281,3 +281,21 @@ Spectograph
 IR flux is ~ on the scale of 1’ and 1” —> WE CARE about this scale
 
 * display fits in the notebook: http://learn.astropy.org/FITS-images.html
+Day twenty- 5/20/19
+I have fallen horribly behind. My computer died and caused me sadness but things got better!
+
+Day twenty two- 5/22/19
+Work day
+
+I got to the photometry portion of the lab I’m late on. 
+
+Day twenty three- 5/24/19
+Today was a good day I only have a few  questions on the last lab. My partner’s dad is in town and we’re going to go to dinner tonight! I hope I can get caught up on the weekend and have some fun. Sorry my logs have been short this week. My brain hurts and there’s been a lot lately. I’ll live though ;). Thanks for all the things. I’m enjoying dis stuffers!
+
+Here’s all the links you’ll need later, Mercedes:
+https://github.com/astropy/ccdproc/blob/master/docs/ccdproc/reduction_toolbox.rst
+https://photutils.readthedocs.io/en/stable/detection.html
+https://photutils.readthedocs.io/en/stable/api/photutils.detection.find_peaks.html#photutils.detection.find_peaks
+https://photutils.readthedocs.io/en/stable/aperture.html
+https://photutils.readthedocs.io/en/stable/api/photutils.aperture_photometry.html#photutils.aperture_photometry
+http://docs.astropy.org/en/stable/visualization/
