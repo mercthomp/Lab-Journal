@@ -299,3 +299,20 @@ https://photutils.readthedocs.io/en/stable/api/photutils.detection.find_peaks.ht
 https://photutils.readthedocs.io/en/stable/aperture.html
 https://photutils.readthedocs.io/en/stable/api/photutils.aperture_photometry.html#photutils.aperture_photometry
 http://docs.astropy.org/en/stable/visualization/
+
+
+Day I've lost count.
+
+This is my make up journal which I greatly thank you for and will be about my experience at uw symposium.
+
+This was my first time presenting at the symposium and like most presenters (at least that I know) I finished my poster very last minute. Putting the final touches on it just minutes before I had to send the poster to print at 4pm. I'm always amazed by how much more work it ends up being. However, I like this poster a lot more then my previous poster at AAS. At the actual presentation I must have been the one too many persons because they placed me on the balcony with the biology people and all the astro presenters were down on the main floor. I had two memorable people come to my poster. One person was a professor from Earth and Space science and I was so happy I had taken this class because he was very interested in CCDs and I was able to talk to him about the heating systems and even recommended the CCD handbook to him. The other was a professor in the astro department that I didn't know. She didn't tell me she was a professor but I gave her my whole presentation then when I began to explain what the Jovian trojans were she cut me off and said she knew, she was an astro professor, who had done astroid research, and said I did very well. Her name is Vikki Meadows and she made me laugh! I really enjoy presenting and am looking forward to presenting research I am planning with Jessica Werk next year. I hoping to plan a personal research project with her. As of now, I think I am interested in exploring CA IV as a tracer for post-starburst galaxies but we'll see what happens!! 
+
+5 More Days til the end
+
+We had memorial day this week and it really messed me up. Although the weekend was very nice my partners family came into town and we spent the weekend on Bainbridge which is beautiful but also yuppy town, USA. One can only hope to ascend to the yuppy status in income but maintain the mind of a nonyupper. 
+
+The day was very stressful I had a test the first day back and once again my computer has died. I should have never trusted it again but it was my only scource to code on and now I am drastically behind in my project and I don't know what to do. A combination of my procrastination, family obligation, and computer oofs is a trifecta of behind. 
+
+4 Days til the end
+
+I have diagnosed a solution to my computer issues! I must create a peronal conda environment on the super computer epyc here on campus. Then using some fancy user specific flag I will be able to download the proper packages to actually reduce my data. I don't like this. My last shift at the cafe I've worked at for two years is tomorrow and hopefully with that extra time I can just bomb out this project... 
